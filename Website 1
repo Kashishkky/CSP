@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>OMYGHERD</title>
+</head>
+
+<style>
+#atlantis {
+            background-color: rgb(200, 200, 232);
+            padding: 15px;
+            border: 5px solid rgb(0, 0, 0);
+            padding-left:15px;
+            margin: 15px;
+          }
+          
+          
+.totsfact {
+            border-top: 1px solid rgb(222, 222, 222);
+            border-bottom: 1px solid rgb(222, 222, 222);
+            padding-top: 6px;
+            padding-bottom: 6px;
+          }
+.headings {
+            font-family: "Garamond", "Palatino";
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0, 0.9);
+            color: white;
+            font-weight: bold;
+            font-size: 40px;
+            border: 10px solid #f1f1f1;
+            text-align:center;
+            box-shadow: 8px 8px 8px 8px rgba(0,0,0,0.6);
+
+           }
+           
+.paratextf {
+             font-family: sans-serif;
+             padding:10px;
+             background: rgb(400,400,400);
+             box-shadow: 8px 8px 8px 8px rgba(0,0,0,0.6);
+             border-top: 5px solid rgb(222, 222, 222);
+             border-bottom: 5px solid rgb(222, 222, 222);
+
+           }
+.paratextf2 {
+             font-family: sans-serif;
+             padding:10px;
+             padding-bottom:200px;
+             background: rgb(400,400,400);
+             margin-top: -15px;
+             box-shadow: 8px 8px 8px 8px rgba(0,0,0,0.6);
+             border-top: 5px solid rgb(222, 222, 222);
+             border-bottom: 5px solid rgb(222, 222, 222);
+
+           }
+body       {
+            margin: 0;
+            padding: 10px;
+            background: rgb(200, 220, 200);
+            font-family: "Lora", serif;
+           }
+.ops1      {
+             font-family: sans-serif;
+             padding:10px;
+             padding-bottom:200px;
+             background: rgb(400,400,400);
+             margin-top: -15px;
+             box-shadow: 8px 8px 8px 8px rgba(0,0,0,0.6);
+             border-top: 5px solid rgb(222, 222, 222);
+             border-bottom: 5px solid rgb(222, 222, 222);
+             padding-top: 6px;
+             padding-bottom: 6px;
+           }
+           
+ .ops2      {
+             font-family: sans-serif;
+             padding:10px;
+             padding-bottom:200px;
+             background: rgb(400,400,400);
+             margin-top: -15px;
+             box-shadow: 8px 8px 8px 8px rgba(0,0,0,0.6);
+             border-top: 5px solid rgb(222, 222, 222);
+             border-bottom: 5px solid rgb(222, 222, 222);
+             padding-top: 6px;
+             padding-bottom: 235px;          
+            }
+            
+#highschool {
+              background-color: rgb(150, 200, 232);
+            padding: 15px;
+            border: 5px solid rgb(0, 0, 0);
+            padding-left:15px;
+            margin: 15px;
+
+
+
+            }
+
+
+
+</style>
+<body>
+
+<h1 class = "headings" >Finding Atlantis: The Discovery of the Lost Metropolis</h1>
+<br>
+<p class= "paratextf">Recent findings have shown us what seems to be the remnants of the ancient lost city of Atlantis. Something which was held as a children's tale has now become reality with these new, extraordinary findings. Researchers have located this extravagant ancient city in what is now the an empty space on the Arctic shelf from which the United Arab Emirates extracted a portion of the glacier to give life-essential water and to sustain more life in their arid environment. These findings have unearthed advanced ancient technologies not known in any other time period. The architectural prowess of these ancient builders, including the use of arches, predates the Romans.</p>
+
+
+<img id="atlantis" src="https://cdn1.collective-evolution.com/assets/uploads/2018/02/atlantis2.png" width =300 height=225 align=right>
+
+<hr><hr>
+
+<p class= "paratextf2">This discovery will have everlasting changes to what we know about the past civilizations of this planet and what the future holds for us. Currently no country in the proximity has claimed the land on which Atlantis resides on, and Sweden has announced that it will keep the site open for all future research projects. The financial bounties that lie within its walls are estimated to hold a value of over 10 billion US dollars and international bidders have made attempts to illegally secure purchases of many artifacts. Currently NOVA has full scientific right on the discovery, research, and application of all aspects of the ancient metropolis.  </p>
+
+
+<h1 class= "headings">A Journey Through High School</h1>
+<br><br>
+<p class="ops1"> High school can be the most life-changing experience a person can go through. It is where you find out who you really are and what you want to do in life. I think that high school is the stepping stone from which the rest of your life will unfold. One of the most important things in high school is not to <strong>PROCRASTINATE</strong> and try to have your work finished ahead of time. Because in the end a paper finished during the day will always be better than a paper finished at 3 in the morning. </p>
+<hr><hr>
+
+<img id="highschool" src="https://www.excelhighschool.com/wp-content/uploads/2016/08/excel_about.jpg" width =300 height=225 align=right>
+
+<p class="ops2">Just keep in mind that high school is one step into the real world, so however you act and perform academically in school and whoever you hang around socially will influence you for the rest of your life. So in conclusion, have fun, and think smart, because four years will go by faster than you think!</p>
+
+
+
+
+
+</body>
+</html>
